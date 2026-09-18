@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Sanal ortam
+.venv/
+venv/
+env/
+ENV/
+
+# Test
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Editör
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
+
+# Proje çıktıları
+urls_raw.txt
+urls.txt
+urlcikar.log
+urlcikar_durum.json
+urlcikar_config.json
+*.state.json
+
+# Geçici
+*.tmp
+*.bak

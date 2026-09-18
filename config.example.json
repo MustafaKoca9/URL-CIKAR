@@ -1,0 +1,38 @@
+{
+  "dizin": "/home/kullanici/yedek",
+  "cikti": "/home/kullanici/urls_raw.txt",
+  "durum_dosyasi": "/home/kullanici/urlcikar_durum.json",
+  "log_dosyasi": "/home/kullanici/urlcikar.log",
+  "ilerleme": true,
+  "renkli": true,
+  "ilerleme_araligi": 200,
+  "uzantilar": [],
+  "haric_dizinler": [
+    ".git",
+    "node_modules",
+    "__pycache__",
+    ".venv",
+    "venv"
+  ],
+  "maks_dosya_boyutu": 524288000,
+  "symlink_takip": false,
+  "binary_kontrol_byte": 4096,
+  "maks_satir_uzunlugu": 10485760,
+  "maks_url_uzunlugu": 2048,
+  "izinli_schemeler": [
+    "http",
+    "https"
+  ],
+  "domain_blacklist": [],
+  "domain_whitelist": [],
+  "ip_atla": false,
+  "localhost_atla": false,
+  "query_temizle": false,
+  "fragment_temizle": false,
+  "percent_decode": false,
+  "dry_run": false,
+  "sessiz": false,
+  "cikti_rotate_boyut": 0,
+  "min_disk_alan": 524288000,
+  "checkpoint_araligi": 500
+}
